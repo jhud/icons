@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91pre2+osxmenu r12816"
+   viewBox="0 0 744.09448 1052.3622"
+   sodipodi:docname="gift.svg"
+   inkscape:export-filename="/Users/jameshudson/projects/get-answers-ios/get-answers/get-answers/Assets.xcassets/profile.imageset/profile.png"
+   inkscape:export-xdpi="14.765625"
+   inkscape:export-ydpi="14.765625">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4624"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4626"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4602"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4604"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4332"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4078bb"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58971185"
+     inkscape:cx="29.192524"
+     inkscape:cy="86.953663"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="791"
+     inkscape:window-x="29"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-others="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4335" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     id="g4793"
+     style="stroke:#ffffff;stroke-opacity:1;stroke-width:65.7726375;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:#675a27;fill-opacity:1;stroke:#ffffff;stroke-width:65.7726375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4358"
+     cy="526.18109"
+     cx="372.04724"
+     inkscape:export-filename="/Users/jameshudson/customer/travelbuddy-ios/Travel Buddy/Travel Buddy/images/path4358.png"
+     inkscape:export-xdpi="77.242722"
+     inkscape:export-ydpi="77.242722"
+     r="0" />
+  <rect
+     style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:65.77263641;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect13799"
+     width="826.95312"
+     height="513.2652"
+     x="-41.429321"
+     y="443.70193" />
+  <g
+     id="g13807"
+     transform="translate(-51.064665,0)">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path13803"
+       d="M 431.41712,404.07363 C 526.68533,366.05612 621.95355,349.90796 717.22176,278.59842 750.20004,167.40903 709.7535,108.66594 612.65909,90.385609 478.38731,165.40517 482.52787,295.78966 431.41712,404.07363 Z"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:65.77263641;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:65.77263641;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 414.80669,404.07363 C 319.53848,366.05612 224.27026,349.90796 129.00205,278.59842 96.023771,167.40903 136.47031,108.66594 233.56472,90.385609 367.8365,165.40517 363.69594,295.78966 414.80669,404.07363 Z"
+       id="path13805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:65.77263641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 372.04724,947.79953 0,-522.81337"
+     id="path13811"
+     inkscape:connector-curvature="0" />
+</svg>
