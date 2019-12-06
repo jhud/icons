@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91pre2+osxmenu r12816"
    viewBox="0 0 744.09448 1052.3622"
-   sodipodi:docname="icon_help.svg"
+   sodipodi:docname="heart.svg"
    inkscape:export-filename="/Users/jameshudson/projects/get-answers-ios/get-answers/get-answers/Assets.xcassets/profile.imageset/profile.png"
    inkscape:export-xdpi="14.765625"
    inkscape:export-ydpi="14.765625">
@@ -137,14 +137,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.58971185"
      inkscape:cx="29.192524"
-     inkscape:cy="74.235587"
+     inkscape:cy="72.539844"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="true"
      inkscape:window-width="1440"
      inkscape:window-height="791"
-     inkscape:window-x="97"
-     inkscape:window-y="36"
+     inkscape:window-x="84"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:snap-to-guides="false"
@@ -183,90 +183,13 @@
      inkscape:export-ydpi="77.242722"
      r="0" />
   <g
-     id="layer1-2"
-     inkscape:label="Layer 1"
-     transform="matrix(1.0036505,0,0,1.0036505,-141.2483,24.010374)">
-    <rect
-       y="-10.285714"
-       x="-8.5714283"
-       height="1045.7142"
-       width="1040"
-       id="rect3901"
-       style="fill:none;stroke:none" />
-    <rect
-       y="21.142857"
-       x="20"
-       height="1002.8572"
-       width="977.14282"
-       id="rect3903"
-       style="fill:none;stroke:none" />
-    <rect
-       y="88.802963"
-       x="99.576546"
-       height="121.51478"
-       width="439.32266"
-       id="rect3905"
-       style="fill:none;stroke:none" />
-    <rect
-       y="21.142857"
-       x="5.7142859"
-       height="991.42859"
-       width="1005.7143"
-       id="rect3907"
-       style="fill:none;stroke:none" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot3802"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3804"><rect
-           y="145.16728"
-           x="197.9899"
-           height="763.67535"
-           width="598.01031"
-           id="rect3806" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:600px;line-height:125%;font-family:AppleMyungjo;-inkscape-font-specification:AppleMyungjo;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara3808" /></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot3810"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3812"><rect
-           y="215.87796"
-           x="206.07112"
-           height="565.68542"
-           width="549.52301"
-           id="rect3814" /></flowRegion><flowPara
-         id="flowPara3816" /></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot3818"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3820"><rect
-           y="171.43126"
-           x="189.90868"
-           height="761.65503"
-           width="668.72101"
-           id="rect3822" /></flowRegion><flowPara
-         id="flowPara3824" /></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot3826"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3828"><rect
-           y="236.08101"
-           x="303.04578"
-           height="561.64484"
-           width="535.38086"
-           id="rect3830" /></flowRegion><flowPara
-         id="flowPara3832" /></flowRoot>    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3889"
-       d="m 584.5926,354.9537 0,560 -145.1852,0 0,-560 z"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:81.91676331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       id="path3881"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:81.91675568;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       cx="512"
-       cy="143.67599"
-       r="77.5"
-       d="m 589.5,143.67599 a 77.5,77.5 0 0 1 -77.5,77.5 77.5,77.5 0 0 1 -77.5,-77.5 77.5,77.5 0 0 1 77.5,-77.499995 77.5,77.5 0 0 1 77.5,77.499995 z" />
+     transform="matrix(25.443178,0,0,25.443178,527.76473,-769.54023)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.23134947;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="flowRoot5911">
+    <path
+       d="m 3.2998095,57.526091 q -1.800003,2.280004 -3.36000548,4.120007 -1.56000252,1.840003 -2.84000462,3.280005 -2.6000042,2.840005 -3.120005,2.840005 -0.600001,0 -2.8800047,-2.480004 -0.8000013,-0.840002 -1.8400027,-2.040004 -1.040002,-1.200002 -2.320004,-2.760004 -1.760003,-2.120004 -2.480004,-3.080005 -3.080005,-3.960007 -4.560007,-7.520012 -1.320003,-3.160005 -1.320003,-6.04001 0,-3.600006 2.280004,-6.560011 2.440004,-3.200005 6.00001,-3.200005 3.3600053,0 5.5600088,3.160005 0.4000007,0.520001 0.7600013,1.320002 0.4000006,0.800002 0.8400013,1.880003 0.4000007,-1.040001 0.7200012,-1.840003 0.3600006,-0.800001 0.7200012,-1.280002 2.0800033,-3.120005 5.48000884,-3.120005 3.52000566,0 5.96000966,3.200005 2.2800037,3.000005 2.2800037,6.560011 0,2.800005 -1.2800021,6.04001 -1.4800024,3.520006 -4.6000074,7.520012 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00006485px;line-height:125%;font-family:AppleGothic;-inkscape-font-specification:'AppleGothic, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:3.23134947;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5944"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
